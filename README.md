@@ -1,7 +1,5 @@
 ### Hi there 👋 I am Edward Pasenidis!
 
-Here are some ideas to get you started:
-
 - 🔭 **I’m currently working on ...**
   * [Hypernova Project](https://github.com/HypernovaProject)
   * [Google Fonts Instant Import](https://github.com/pasenidis/google-fonts-instant-import)
