@@ -1,4 +1,4 @@
-### Hi there 👋! I am Edward Pasenidis!
+### Hi there 👋 I am Edward Pasenidis!
 
 Here are some ideas to get you started:
 
