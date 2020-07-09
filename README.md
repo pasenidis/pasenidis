@@ -27,5 +27,6 @@
   * or just [e-mail me](mailto:me@edpasenidis.tech)
   
   
+ - 🔑 [Public Key](https://github.com/pasenidis.keys)
+  
 - 😄 **Pronouns**: He / His
-- ⚡ **Fun fact**: I am a high school student settled in Thessaloniki, Greece
