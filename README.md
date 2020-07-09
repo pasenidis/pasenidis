@@ -1,4 +1,5 @@
-### Hi there 👋 I am Edward Pasenidis!
+## Hi there 👋 I am Edward Pasenidis!
+<hr>
 
 - 🔭 **I’m currently working on ...**
   * [Hypernova Project](https://github.com/HypernovaProject)
