@@ -3,8 +3,8 @@
 
 - 🔭 **I’m currently working on ...**
   * [Hypernova Project](https://github.com/HypernovaProject)
+  * [Valuta.gr](https://github.com/valuta-gr)
   * [Google Fonts Instant Import](https://github.com/pasenidis/google-fonts-instant-import)
-  * *and a surprise...*
   
   
 - 🌱 **I’m currently learning ...**
