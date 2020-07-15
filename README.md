@@ -2,10 +2,11 @@
 <hr>
 
 - 🔭 **I’m currently working on ...**
-  * [Hypernova Project](https://github.com/HypernovaProject)
-  * [Valuta.gr](https://github.com/valuta-gr)
-  * [Google Fonts Instant Import](https://github.com/pasenidis/google-fonts-instant-import)
-  
+  | Project Name  | Additional Info |
+  | ------------- | ------------- |
+  | [Hypernova Project](https://hypernova.gq)  | **Active Development** |
+  | Google Fonts Instant Import | [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/downloads/Edward.google-fonts-instant-import.svg)](https://marketplace.visualstudio.com/items?itemName=Edward.google-fonts-instant-import) |
+  | [Valuta](https://github.com/Valuta-gr)  | **Not out yet**  |
   
 - 🌱 **I’m currently learning ...**
   * [Advanced parts of VueJS](https://vuejs.org/)
