@@ -3,7 +3,7 @@
 
 - 🔭 **I’m currently working on ...**
   | Project Name  | Additional Info |
-  | ------------- | ------------- |
+  | ------------- | :---: |
   | [Hypernova Project](https://hypernova.gq)  | **Active Development** |
   | Google Fonts Instant Import | [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/downloads/Edward.google-fonts-instant-import.svg)](https://marketplace.visualstudio.com/items?itemName=Edward.google-fonts-instant-import) |
   | [Valuta](https://github.com/Valuta-gr)  | **Not out yet**  |
