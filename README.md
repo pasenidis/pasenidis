@@ -1,4 +1,13 @@
 ## Hi there 👋 I am Edward Pasenidis!
+
+<hr>
+
+### 📎 Contents of this repository:
+- **this paper**,
+- dotfiles (soon),
+- editor configs (soon),
+- pgp key (soon)
+
 <hr>
 
 - 🔭 **I’m currently working on ...**
