@@ -7,9 +7,7 @@
   <img align="right" src="https://readme.edpasenidis.tech/api/top-langs/?username=pasenidis&theme=merko&hide=html" />
 </a>
 
-<hr>
-<br>
-- 📫 **Contact Details:**
+### 📫 **Contact Details:**
   - on Discord at **Edward Pasenidis#5274**,
   - on Twitter at **@EdwardPasenidis**
   - on Matrix at **@pasenidis:matrix.org**
