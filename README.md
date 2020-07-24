@@ -1,4 +1,4 @@
-## Hi there 👋 I am Edward Pasenidis!
+# Hi there 👋 I am Edward Pasenidis!
 
 <a href="https://github.com/pasenidis?tab=repositories">
   <img align="left" src="https://readme.edpasenidis.tech/api?username=pasenidis&show_icons=true&theme=merko"/>
@@ -6,6 +6,14 @@
 <a href="https://github.com/pasenidis?tab=repositories">
   <img align="right" src="https://readme.edpasenidis.tech/api/top-langs/?username=pasenidis&theme=merko&hide=html" />
 </a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></br>
 
 ### 📫 **Contact Details:**
   - on Discord at **Edward Pasenidis#5274**,
