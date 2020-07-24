@@ -3,8 +3,8 @@
 <a href="https://github.com/pasenidis?tab=repositories">
   <img align="left" src="https://readme.edpasenidis.tech/api?username=pasenidis&show_icons=true&theme=merko"/>
 </a>
-<br>
-
+<br></br>
+<br></br>
 <br></br>
 
 ### 📫 **Contact Details:**
