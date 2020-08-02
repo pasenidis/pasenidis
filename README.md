@@ -2,7 +2,7 @@
 
 ## I'm a software engineer!
 - 🔭 I’m currently working on some cool web apps
-- 🌱 I’m currently learning some frontend development 🤣
+- 🌱 I’m currently learning some frontend development
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2020 Goals: Become a Python guru 
 
