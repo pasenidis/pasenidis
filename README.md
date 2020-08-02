@@ -28,7 +28,7 @@
 
 ---
 
-<img align="left" alt="Edwards's Github Stats" src="https://readme.edpasenidis.tech/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Edwards's Github Stats" src="https://readme.edpasenidis.tech/api?username=pasenidis&show_icons=true&hide_border=true" />
 
 [website]: https://edpasenidis.tech
 [twitter]: https://twitter.com/EdwardPasenidis
