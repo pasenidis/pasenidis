@@ -1,15 +1,11 @@
 ### Hi there, I'm Edward 👋
 
-## I'm a software engineer!
-- 🔭 I’m currently working on some cool web apps
-- 🌱 I’m currently learning some frontend development
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2020 Goals: Become a Python guru 
+## I'm a software engineer
 
 ### Connect with me:
 
-[<img align="left" alt="edpasenidis.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="pasenidis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
@@ -28,6 +24,5 @@
 
 <img align="left" alt="Edwards's Github Stats" src="https://readme.edpasenidis.tech/api?username=pasenidis&show_icons=true&hide_border=true" />
 
-[website]: https://edpasenidis.tech
+[website]: https://pasenidis.com
 [twitter]: https://twitter.com/EdwardPasenidis
-[instagram]: https://instagram.com/pasenid1s
